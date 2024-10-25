@@ -1,0 +1,9 @@
+1. Home
+Hero Section: Headline and short intro.
+Call-to-Action: Buttons for “View Portfolio” and “Contact.”
+2. About Me
+Brief bio, skills, and a bit of personal touch (interests, hobbies).
+3. Portfolio
+Showcase 3-5 main projects with images, descriptions, and links.
+4. Contact
+Simple form, social links, and email.
