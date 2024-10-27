@@ -64,8 +64,12 @@ export default function Banner() {
                             </video>
                         </div>
 
-                        <div className="text-lg text-center mt-4 text-gray-700">
-                            When I signed as the President of the Information Technology Department
+                        <div className="flex flex-col items-center mt-4 text-lg text-gray-700">
+                            <span className="text-2xl text-gray-500 animate-bounce">↑</span>
+
+                            <p className="text-center mt-2 font-semibold text-gray-800">
+                                When I signed as the President of the Information Technology Department
+                            </p>
                         </div>
                     </div>
                 </div>
