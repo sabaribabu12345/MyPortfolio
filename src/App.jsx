@@ -4,7 +4,9 @@ export default function App() {
   return (
     <div>
         <TopBar/>
-        <Banner/>        
+        <Banner/>
+        
+     
 
     </div>
   

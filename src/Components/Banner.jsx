@@ -65,12 +65,15 @@ export default function Banner() {
                         </div>
 
                         <div className="flex flex-col items-center mt-4 text-lg text-gray-700">
-                            <span className="text-2xl text-gray-500 animate-bounce">↑</span>
+                            <span className="text-4xl text-black font-bold animate-bounce">↑</span>
 
-                            <p className="text-center mt-2 font-semibold text-gray-800">
+                            <p className="text-center text-2xl mt-2 font-semibold text-gray-1200">
                                 When I signed as the President of the Information Technology Department
                             </p>
                         </div>
+                        <br></br>                        <br></br>
+                        <br></br>
+
                     </div>
                 </div>
             </div>
