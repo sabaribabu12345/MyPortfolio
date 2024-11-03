@@ -22,16 +22,16 @@ export default function Banner() {
                             <span className="inline-block animate-fade-in " style={{ animationDelay: '0.7s' }}>I</span>
                             <span className="inline-block animate-fade-in " style={{ animationDelay: '0.8s' }}>'</span>
                             <span className="inline-block animate-fade-in " style={{ animationDelay: '0.9s' }}>m&nbsp;</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1s' }}>S</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.1s' }}>a</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.2s' }}>b</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.3s' }}>a</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.4s' }}>r</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.5s' }}>i&nbsp;</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.6s' }}>B</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.7s' }}>a</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.8s' }}>b</span>
-                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.9s' }}>u</span></b> <br></br><br></br>I'am a full-stack developer with a strong foundation in both front-end and back-end technologies. I recently completed my master's degree in the USA, where I honed my skills in software development and problem-solving.
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.7s' }}>S</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.1s' }}>a</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.2s' }}>b</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.3s' }}>a</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.4s' }}>r</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.5s' }}>i&nbsp;</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '1.7s' }}>B</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.7s' }}>a</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.8s' }}>b</span>
+                            <span className="inline-block animate-fade-in " style={{ animationDelay: '0.9s' }}>u</span></b> <br></br><br></br>I'am a full-stack developer with a strong foundation in both front-end and back-end technologies. I recently completed my master's degree in the USA, where I honed my skills in software development and problem-solving.
                     </div>
                     <div className="p-4">
                         <img className='rounded-full border shadow-xl hover:shadow-2xl ' src='https://media.licdn.com/dms/image/v2/D5603AQHk46GlG16QvA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726166124273?e=1735171200&v=beta&t=oyZdM1_GT_hvVdnoW-kjqZrIN0CvG_BIVZcR0aDiSiE'></img>
